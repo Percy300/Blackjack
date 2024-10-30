@@ -1,4 +1,2 @@
 # First-test
-testing with windows git
-writing in my README
-learned it!
+making blackjack!
